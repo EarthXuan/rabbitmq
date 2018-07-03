@@ -1,64 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ecdb1786-e8ae-46cc-b871-b920aee0f6c2" name="Default" comment="学习rabbitmq">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../idea/rabbitmq/.idea/compiler.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../idea/rabbitmq/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_8_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../idea/rabbitmq/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_8_4.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../idea/rabbitmq/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_8_4.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../idea/rabbitmq/.idea/libraries/Maven__com_rabbitmq_amqp_client_4_0_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../idea/rabbitmq/.idea/libraries/Maven__com_rabbitmq_http_client_1_1_1_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../idea/rabbitmq/.idea/libraries/Maven__commons_codec_commons_codec_1_6.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../idea/rabbitmq/.idea/libraries/Maven__commons_logging_commons_logging_1_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../idea/rabbitmq/.idea/libraries/Maven__junit_junit_4_11.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../idea/rabbitmq/.idea/libraries/Maven__log4j_log4j_1_2_17.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../idea/rabbitmq/.idea/libraries/Maven__org_apache_httpcomponents_httpclient_4_3_6.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../idea/rabbitmq/.idea/libraries/Maven__org_apache_httpcomponents_httpcore_4_3_3.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../idea/rabbitmq/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../idea/rabbitmq/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_10.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../idea/rabbitmq/.idea/libraries/Maven__org_slf4j_slf4j_log4j12_1_7_5.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../idea/rabbitmq/.idea/libraries/Maven__org_springframework_amqp_spring_amqp_1_7_5_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../idea/rabbitmq/.idea/libraries/Maven__org_springframework_amqp_spring_rabbit_1_7_5_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../idea/rabbitmq/.idea/libraries/Maven__org_springframework_retry_spring_retry_1_2_1_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../idea/rabbitmq/.idea/libraries/Maven__org_springframework_spring_aop_4_3_13_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../idea/rabbitmq/.idea/libraries/Maven__org_springframework_spring_beans_4_3_13_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../idea/rabbitmq/.idea/libraries/Maven__org_springframework_spring_context_4_3_13_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../idea/rabbitmq/.idea/libraries/Maven__org_springframework_spring_core_4_3_13_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../idea/rabbitmq/.idea/libraries/Maven__org_springframework_spring_expression_4_3_13_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../idea/rabbitmq/.idea/libraries/Maven__org_springframework_spring_messaging_4_3_13_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../idea/rabbitmq/.idea/libraries/Maven__org_springframework_spring_tx_4_3_13_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../idea/rabbitmq/.idea/libraries/Maven__org_springframework_spring_web_4_3_13_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../idea/rabbitmq/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../idea/rabbitmq/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../idea/rabbitmq/.idea/uiDesigner.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../idea/rabbitmq/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../idea/rabbitmq/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../idea/rabbitmq/pom.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../idea/rabbitmq/rabbitmq.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../idea/rabbitmq/src/main/java/com/ex/confirm/Recv.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../idea/rabbitmq/src/main/java/com/ex/confirm/Send1.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../idea/rabbitmq/src/main/java/com/ex/confirm/Send2.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../idea/rabbitmq/src/main/java/com/ex/confirm/Send3.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../idea/rabbitmq/src/main/java/com/ex/ps/Recv1.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../idea/rabbitmq/src/main/java/com/ex/ps/Recv2.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../idea/rabbitmq/src/main/java/com/ex/ps/Send.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../idea/rabbitmq/src/main/java/com/ex/routing/Recv1.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../idea/rabbitmq/src/main/java/com/ex/routing/Recv2.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../idea/rabbitmq/src/main/java/com/ex/routing/Send.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../idea/rabbitmq/src/main/java/com/ex/simple/Recv.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../idea/rabbitmq/src/main/java/com/ex/simple/Send.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../idea/rabbitmq/src/main/java/com/ex/topic/Recv1.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../idea/rabbitmq/src/main/java/com/ex/topic/Recv2.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../idea/rabbitmq/src/main/java/com/ex/topic/Send.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../idea/rabbitmq/src/main/java/com/ex/tx/TxRecv.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../idea/rabbitmq/src/main/java/com/ex/tx/TxSend.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../idea/rabbitmq/src/main/java/com/ex/util/ConnectionUtils.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../idea/rabbitmq/src/main/java/com/ex/work/Recv1.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../idea/rabbitmq/src/main/java/com/ex/work/Recv2.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../idea/rabbitmq/src/main/java/com/ex/work/Send.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../idea/rabbitmq/src/main/java/com/ex/workfair/Recv1.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../idea/rabbitmq/src/main/java/com/ex/workfair/Recv2.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../idea/rabbitmq/src/main/java/com/ex/workfair/Send.java" />
+    <list default="true" id="ecdb1786-e8ae-46cc-b871-b920aee0f6c2" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../idea/rabbitmq/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../../idea/rabbitmq/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/../../idea/rabbitmq/out/" />
     <ignored path="$PROJECT_DIR$/../../idea/rabbitmq/target/" />
@@ -507,12 +451,20 @@
       <workItem from="1530428940054" duration="142000" />
       <workItem from="1530429167279" duration="356000" />
       <workItem from="1530429588758" duration="7937000" />
-      <workItem from="1530617515876" duration="2101000" />
+      <workItem from="1530617515876" duration="2200000" />
     </task>
+    <task id="LOCAL-00001" summary="学习rabbitmq">
+      <created>1530620168886</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1530620168886</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="29376000" />
+    <option name="totallyTimeSpent" value="29475000" />
   </component>
   <component name="TodoView" selected-index="2">
     <todo-panel id="selected-file">
@@ -591,9 +543,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -632,9 +582,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="228">
           <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -672,9 +620,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
